@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridabayi&show_icons=true&locale=en" alt="ridabayi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridabayi&" alt="ridabayi" /></p>
+
+### 🔝 Top Contributed Repo
+<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=ridabayi&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="ridabayi" /></p>
