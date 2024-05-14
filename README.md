@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">I am a dedicated and passionate Data Scientist with a biomedical engineering and signal processing background. Skilled in developing and implementing algorithms for medical imaging analysis, healthcare data processing, machine and deep learning model creation. Proficient in Python, with expertise in libraries/frameworks such as Pandas, Numpy, Scikit-learn, TensorFlow, and PyTorch. Experienced in DevOps tools like Docker and Git, with knowledge of cloud platforms like AWS. Fluent in French, English, and Arabic.</h3>
 
 - 🌱 I’m currently learning **Alx Software Engineering**
 
