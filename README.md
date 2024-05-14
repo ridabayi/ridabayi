@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida</h1>
-<h3 align="center">I am a dedicated and passionate Data Scientist with a biomedical engineering and signal processing background. Skilled in developing and implementing algorithms for medical imaging analysis, healthcare data processing, machine and deep learning model creation. Proficient in Python, with expertise in libraries/frameworks such as Pandas, Numpy, Scikit-learn, TensorFlow, and PyTorch. Experienced in DevOps tools like Docker and Git, with knowledge of cloud platforms like AWS.</h3>
+<h3 align="center">I am a dedicated and passionate Data Scientist committed to leveraging data-driven insights to solve complex problems across various domains. My expertise lies in developing and implementing algorithms for medical imaging analysis, healthcare data processing, and creating machine and deep learning models. Proficient in Python, I have a strong command of libraries/frameworks such as Pandas, Numpy, Scikit-learn, TensorFlow, and PyTorch. Additionally, I have hands-on experience with DevOps tools like Docker and Git, along with knowledge of cloud platforms such as AWS.</h3>
 
 - 🌱 I’m currently learning **Alx Software Engineering**
 
