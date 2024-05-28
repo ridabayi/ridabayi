@@ -32,11 +32,11 @@
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridabayi&show_icons=true&locale=en&layout=compact" alt="ridabayi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysuarex&show_icons=true&locale=en" alt="aysuarex" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysuarex&" alt="aysuarex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysuarex&show_icons=true&locale=en" alt="ridabayi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysuarex&" alt="ridabayi" /></p>
 -->
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysuarex" alt="aysuarex" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysuarex" alt="ridabayi" /></a> </p>-->
 
 ![](https://github-profile-trophy.vercel.app/?username=ridabayi&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
