@@ -25,13 +25,13 @@ I am a passionate Data Scientist committed to leveraging data-driven insights to
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning Alx Software Engineering  
+- 🌱 I’m currently learning Alx Software Engineering Program    
   
 
 - ❓ Ask me about anything related to AI and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep the night shift switched on at all times  
   
 
 <br/>  
