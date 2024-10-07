@@ -24,8 +24,7 @@ I am a passionate Data Scientist committed to leveraging data-driven insights to
 <br/>  
 
 
-## Rapidfire  
-- 🌱 I’m currently learning Alx Software Engineering Program    
+## Rapidfire   
   
 
 - ❓ Ask me about anything related to AI and related technologies  
