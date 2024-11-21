@@ -4,7 +4,8 @@
 
 I am a **Data Scientist** with a relentless pursuit of excellence in transforming data into actionable insights. With a background in machine learning, deep learning, and medical imaging, I strive to innovate solutions that enhance patient care and streamline healthcare operations. My passion lies in leveraging technology to drive positive change in society.
 
-![Data Science](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*klrZoT0H3AmZ1DuyHI3tOw.jpeg)
+![GitHub Cover Image](https://raw.githubusercontent.com/ridabayi/ridabayi/main/DALL%C2%B7E%202024-11-21%2014.16.30%20-%20A%20highly%20advanced%20and%20visually%20striking%20artwork%20for%20a%20GitHub%20profile%20cover%2C%20representing%20the%20role%20of%20a%20Data%20Scientist.%20The%20design%20showcases%20a%20futurist.webp)
+
 
 > "The greatest use of a life is to spend it on something that will outlast it." – **William James**
 
