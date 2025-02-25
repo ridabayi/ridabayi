@@ -48,7 +48,6 @@ To harness the power of data and AI to create impactful solutions that improve h
 
 ![MLOps](https://media.giphy.com/media/J4Jd1wEc8K0eR8ZGE1/giphy.gif)
 
-- **Technologies**: Docker, AWS, Git, Kubernetes
 - **Impact**: Achieved 70% faster model deployment with continuous integration practices.
 
 ---
