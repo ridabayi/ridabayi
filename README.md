@@ -30,11 +30,9 @@ To harness the power of data and AI to create impactful solutions that improve h
 ## 🔧 Notable Projects
 
 ### **1. AI-Powered Diagnostic Assistant**
-*Developed a deep learning model that assists radiologists in identifying lung diseases, achieving a diagnostic accuracy of 95%.*
 
-![AI Assistant](https://media.giphy.com/media/xUPGcjzUGBMs5ff3fC/giphy.gif)
+![AI Assistant](https://github.com/ridabayi/ridabayi/blob/main/all_feats-ezgif.com-video-to-gif-converter.gif)
 
-- **Technologies**: TensorFlow, Keras, Python
 - **Impact**: Reduced diagnostic time by 40%, allowing for quicker treatment decisions.
 
 ### **2. Emergency Department Predictive Analytics**
