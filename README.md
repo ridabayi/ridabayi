@@ -8,13 +8,7 @@ Building high-performance AI and data solutions for complex environments.
 
 ## Profile
 
-- 4 years of experience in **Machine Learning**, **Deep Learning**, **MLOps**, and **Data Engineering**
-- Specialized in **biomedical imaging**, **AI for healthcare**, and **computer vision**
-- Expertise in designing and deploying **scalable, production-ready pipelines**
-- Strong focus on **CI/CD**, **DevOps practices**, and **cloud infrastructure** for robust deployments
-- Committed to **explainable AI (XAI)** and improving user trust in model predictions
-
----
+- 4 years of experience in **Machine Learning**, **Deep Learning**
 
 ## Skills
 
