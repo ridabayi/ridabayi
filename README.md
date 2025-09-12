@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e40af&text=Hi%2C%20I'm%20Rida%20Bayi%20🚀&fontColor=ffffff&fontSize=38&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20MLOps%20|%20Generative%20AI&descSize=22&descAlignY=65" />
+</p>
+
+
+
+
 
 # 💫 About Me  
 I design **secure, scalable AI pipelines** with a focus on **MLOps, Generative AI (LLMs, RAG)**, and **cloud-native architectures**.  
