@@ -1,38 +1,28 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Rida%20Bayi%20🚀%20MLOps%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚙️+CI/CD+%7C+☁️+Cloud+%7C+🤖+AI+Architectures&descAlignY=60&descSize=18"/>
-</p>
-
 
 # 💫 About Me  
-🌌 **Currently working on**  
-Designing **secure, scalable AI pipelines** integrating **LLMs, RAG, and MLOps best practices**.  
-Focus: **bridging research and production** through cloud-native architectures *(Kubernetes, Terraform, Vault)* with **CI/CD automation & observability**.  
-
-🤝 **Looking to collaborate on**  
-Cutting-edge projects in **Generative AI (LLMOps, agents, multi-modal)**, **AI for healthcare**, and **high-impact data platforms**.  
-Passionate about open-source ecosystems *(LangChain, HuggingFace, MLflow, Kubeflow)*.  
-
-🙏 **Looking for help with**  
-Pioneering approaches to **LLM fine-tuning** *(LoRA/PEFT, quantization, distillation)* and **advanced RAG systems** (hybrid semantic search, retrieval fusion).  
-
-🌱 **Currently learning**  
-- LangGraph & Agentic Workflows  
-- Advanced RAG orchestration *(recursive, self-query, multi-hop)*  
-- Generative AI security & compliance *(AI Act, hallucination mitigation)*  
-- Multi-cloud AI deployments *(Vertex AI, AWS Sagemaker, Azure AI)*  
-
-💬 **Ask me about**  
-- End-to-end **MLOps pipelines** *(MLflow, DVC, GitHub Actions, Docker, K8s)*  
-- **Generative AI** *(LLMs, RAG, LangChain, fine-tuning)*  
-- **Cloud-native deployment** *(Terraform, Helm, GCP/AWS/Azure)*  
-- **Monitoring & reliability** *(Prometheus, Grafana, ELK, Datadog)*  
-- **AI in critical environments** *(healthcare, defense, industry)*  
-
-⚡ **Fun fact**  
-I started in **biomedical imaging** before moving into **MLOps & Generative AI** — bridging research & production-grade AI.  
+I design **secure, scalable AI pipelines** with a focus on **MLOps, Generative AI (LLMs, RAG)**, and **cloud-native architectures**.  
+Bridging **research & production** through **CI/CD, Kubernetes, Terraform, and observability**.  
 
 ---
+
+## 🔧 Tech Focus  
+- **MLOps**: MLflow, DVC, GitHub Actions, Docker, K8s  
+- **Generative AI**: LLMs, RAG, LangChain, HuggingFace, fine-tuning (LoRA/PEFT)  
+- **Cloud & IaC**: GCP, AWS, Azure, Terraform, Helm, Vault  
+- **Monitoring**: Prometheus, Grafana, ELK, Datadog  
+
+---
+
+## 🌱 Learning & Exploring  
+- Agentic workflows (LangGraph)  
+- Advanced RAG (multi-hop, hybrid search)  
+- GenAI compliance & security  
+- Multi-cloud AI deployments  
+
+---
+
+## ⚡ Fun fact  
+Started in **biomedical imaging** → now building **production-grade AI pipelines**.
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridabayi)  
