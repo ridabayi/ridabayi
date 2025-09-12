@@ -4,10 +4,13 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 # 💫 About Me  
 I design **secure, scalable AI pipelines** with a focus on **MLOps, Generative AI (LLMs, RAG)**, and **cloud-native architectures**.  
 Bridging **research & production** through **CI/CD, Kubernetes, Terraform, and observability**.  
+
 ---
+
 ## 🔧 Tech Focus  
 - **MLOps**: MLflow, DVC, GitHub Actions, Docker, K8s  
 - **Generative AI**: LLMs, RAG, LangChain, HuggingFace, fine-tuning (LoRA/PEFT)  
